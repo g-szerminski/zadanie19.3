@@ -1,0 +1,23 @@
+{
+  "name": "zadanie19.3",
+  "version": "1.0.0",
+  "description": "19 - Redux - aplikacja pod kontrolą<br>\r 19.3 - Akcje<br>\r Zadanie: Tworzymy Akcje",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-szerminski/zadanie19.3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-szerminski/zadanie19.3/issues"
+  },
+  "homepage": "https://github.com/g-szerminski/zadanie19.3#readme",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
